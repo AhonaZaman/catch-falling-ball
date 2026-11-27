@@ -44,6 +44,6 @@ Catch the Falling Ball is a simple 2D arcade game developed using Python and Pyg
 6. Avoid missing the balls.
  
 
-## 🏁 7 Conclusion
+## 🏁 6 Conclusion
 
 This project provides a simple and interactive gaming experience while helping us understand basic Python programming and computer graphics concepts.
